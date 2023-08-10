@@ -19,8 +19,6 @@
 </div>
   
   ##
- 
- ![Snake animation](https://github.com/athyrsonlopes/athyrsonlopes/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <p>Feito com :heart: e Ruby.</p>
