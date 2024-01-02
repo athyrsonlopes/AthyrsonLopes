@@ -25,3 +25,8 @@
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
 
+<br>
+<div align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AthyrsonLopes&icon=7&color=6"/></a>
+</div>
+
