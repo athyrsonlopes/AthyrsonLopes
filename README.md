@@ -33,10 +33,5 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-- [🎯 Jogo da Forca (Ruby)](https://github.com/athyrsonlopes/jogo-da-forca-ruby)
-- [💰 Crypto Wallet (Ruby)](https://github.com/athyrsonlopes/crypto-wallet)
 
----
-
-✨ *Sempre aprendendo, construindo e compartilhando conhecimento!*
+✨ *Em constante evolução*
