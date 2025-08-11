@@ -1,10 +1,8 @@
-<!-- Banner animado com Maomao -->
-<img src="https://tenor.com/pt-BR/view/apothecary-diaries-mao-mao-apothecary-gif-15868470218072438900" width="100%" alt="Maomao fofo do anime" />
 
 # 👋 Olá, eu sou o Athyrson Lopes
-<img align="right" src="https://media.tenor.com/URL_DO_GIF_RICK1.gif" width="200" alt="Rick Sanchez">
 
-💻 Bacharelando **Sistemas de Informação** apaixonado por tecnologia, programação e animes.  
+
+💻 Bacharelando em **Sistemas de Informação** apaixonado por tecnologia, programação e animes.  
 🚀 Atualmente focado em **Ruby**, **Elixir**, **Crystal**, **SQL**, **Docker**, **GitHub** e **AWS**.  
 📍 Brasil
 
