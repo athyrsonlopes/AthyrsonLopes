@@ -1,32 +1,44 @@
-### Olá!! 
+<!-- Banner animado com Maomao -->
+<img src="https://tenor.com/pt-BR/view/apothecary-diaries-mao-mao-apothecary-gif-15868470218072438900" width="100%" alt="Maomao fofo do anime" />
 
-- 🌱 Learning Ruby/Rails
+# 👋 Olá, eu sou o Athyrson Lopes
+<img align="right" src="https://media.tenor.com/URL_DO_GIF_RICK1.gif" width="200" alt="Rick Sanchez">
 
-##
+💻 Bacharelando **Sistemas de Informação** apaixonado por tecnologia, programação e animes.  
+🚀 Atualmente focado em **Ruby**, **Elixir**, **Crystal**, **SQL**, **Docker**, **GitHub** e **AWS**.  
+📍 Brasil
 
-<div align="center">
-  <a href="https://github.com/AthyrsonLopes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=athyrsonlopes&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athyrsonlopes&layout=compact&langs_count=7&theme=gruvbox_light"/>
-</div>
+---
 
- 
+## 🛠 Tecnologias e Ferramentas
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
+---
 
-<div align="center">
-  <p>Feito com :heart: e Ruby.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
 
-<br>
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AthyrsonLopes&icon=7&color=6"/></a>
-</div>
+---
 
+## 📊 Estatísticas do GitHub
+![Athyrson's GitHub stats](https://github-readme-stats.vercel.app/api?username=athyrsonlopes&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athyrsonlopes&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projetos em Destaque
+- [🎯 Jogo da Forca (Ruby)](https://github.com/athyrsonlopes/jogo-da-forca-ruby)
+- [💰 Crypto Wallet (Ruby)](https://github.com/athyrsonlopes/crypto-wallet)
+
+---
+
+✨ *Sempre aprendendo, construindo e compartilhando conhecimento!*
