@@ -1,1 +1,1 @@
-<img src="bannerANIME.svg" width="100%" />
+<img src="kakyoin_github_profile.svg" width="100%" />
