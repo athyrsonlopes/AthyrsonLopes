@@ -51,7 +51,7 @@
 <p><img src="./imgs/headings/social.svg" alt="02 Social media" width="273" height="51"></p>
 
 <p>
-  <a href="https://github.com/athyrsonlopes"><img src="./imgs/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60"></a
+  <a href="https://www.linkedin.com/in/athyrson-lopes/"><img src="./imgs/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="60" height="60"></a
   ><a href="https://x.com/athydev"><img src="./imgs/icons/x.svg" alt="X" title="X" width="60" height="60"></a>
 </p>
 
