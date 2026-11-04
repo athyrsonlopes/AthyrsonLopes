@@ -1,27 +1,64 @@
+```text
+                     ⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣷⢸⣿⣿⡜⢯⣷⡌⡻⣿⣿⣿⣆⢈⠻⠿⢿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣀⠀⠀
+                     ⠀⠀⠀⡁⢳⣿⣿⣿⣿⣿⣿⡜⣿⣿⣧⢀⢻⣷⠰⠈⢿⣿⣿⣧⢣⠉⠑⠪⢙⠿⠿⠿⠿⠿⠿⠿⠋⠁⠀
+                     ⠀⢀⣱⡇⡞⣿⣿⣿⣿⣿⣿⡇⣿⣿⡏⡄⣧⠹⡇⠧⠈⢻⣿⣿⡇⢧⢢⠀⠀⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                     ⠀⢸⣿⣇⢃⢿⣿⣿⣿⣿⣿⣷⣿⣿⠇⢃⣡⣤⡹⠐⣿⣀⢻⣿⣿⢸⡎⠳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                     ⠈⣾⣿⣿⠘⡸⣿⣿⣿⣿⣿⣿⣿⡿⣰⣿⣿⢟⡷⠈⠋⠃⠎⢿⣿⡏⣿⠀⠘⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                     ⡐⢹⣿⣿⡐⢡⢹⣿⣿⣿⣿⡏⣿⢣⣿⣿⡑⠁⠔⠀⠉⠉⠢⡘⣿⡇⣿⡇⠀⡀⠡⡀⠀⠀⠀⠀⠀⠀⠀
+                     ⡇⠘⣿⣿⣇⠇⢣⢻⣿⣿⣿⡇⢇⣾⣿⣿⡆⢸⣤⡀⠚⢂⠀⢡⢿⡇⣿⡇⠀⢿⠀⠀⠄⠀⠀⠀⠀⠀⠀
+                     ⣿⠠⠹⣿⣿⡘⣆⢣⠻⣿⣿⢈⣾⣿⣿⣿⣶⣸⣏⢀⣬⣋⡼⣠⢸⢹⣿⡇⢠⣼⠙⡄⠀⠀⠀⠀⠀⠀⠀
+                     ⢹⡇⠁⠹⣿⣇⠹⡃⠃⠙⡇⠘⢿⣿⣿⣿⣿⣿⣏⣓⣉⣭⣴⣿⠘⢸⣿⠁⠘⠋⠀⠹⠄⠀⠀⠀⠀⠀⠀
+                     ⠈⢷⠀⠀⠈⢿⣇⠂⣷⠄⠐⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢠⢸⡏⠀⢀⣠⣴⣾⣿⣶⣄⠀⠀⠀⠀
+                     ⠀⠈⢆⠀⠀⠀⠙⠆⠈⠢⠲⠥⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡞⣸⠁⠀⢸⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀
+                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠄⠃⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀
+                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⡏⠹⣿⣿⡿⠫⠊⠀⠀⠀⣶⠀⢻⣿⣿⣿⣿⡿⡇⠀⠀⠀
+                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠻⠿⠿⠿⢋⠀⠀⠀⠀⢀⣼⣿⡆⠈⣿⣿⣿⡟⣱⡷⠀⠀⠀
+                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢁⣁⡀⠨⣛⠿⠶⠄⢀⣠⣾⣿⣿⣷⠀⢹⣿⡟⣴⠈⢃⣶⠔⠀
+                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⡄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠈⣿⣿⡿⠀⡀⣿⣷⠀
+                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢙⠻⣿⣿⢀⠙⠻⠿⣿⣿⣿⣿⣿⣿⡇⠁⣿⠟⡀⠈⣧⢰⣿⠆
+                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠿⠴⠮⣥⠻⢧⣤⣄⣀⡉⢩⣭⣍⣃⣀⣩⠎⢀⣼⠉⣼⡯⠀
+                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠁⣛⠓⢒⣒⣢⡭⢁⡈⠿⠿⠟⠹⠛⠁⠀⠀⠀⠰⠃⠂⠀
 
-# 👋 Olá, eu sou o Athyrson Lopes
+     ___   __  __
+    /   | / /_/ /_  __  ________________  ____
+   / /| |/ __/ __ \/ / / / ___/ ___/ __ \/ __ \
+  / ___ / /_/ / / / /_/ / /  (__  ) /_/ / / / /
+ /_/  |_\__/_/ /_/\__, /_/  /____/\____/_/ /_/
+                 /____/
 
+ .-----------------------------------------------------------------------------.
+ | (x) (-) (+)                     ~/about.txt                                 |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ | Information Systems student at IFCE, in Juazeiro do Norte, Brazil.          |
+ | Moving from IT support into software development.                           |
+ | Backend is my thing: Ruby on Rails, PostgreSQL and APIs.                    |
+ | -@athyrsonlopes                                                             |
+ |                                                                             |
+ '-----------------------------------------------------------------------------'
+```
 
-💻 Bacharelando em **Sistemas de Informação** apaixonado por tecnologia, programação e animes.  
-🚀 Atualmente focado em **Ruby**, **Elixir**, **Crystal**, **SQL**, **Docker**, **GitHub** e **AWS**.  
-📍 Brasil
+<p><img src="./imgs/headings/stack.svg" alt="01 Stack" width="168" height="51"></p>
 
----
+<p>
+  <img src="./imgs/icons/lang-ruby.svg" alt="Ruby" title="Ruby" width="60" height="60"
+  ><img src="./imgs/icons/lang-rails.svg" alt="Rails" title="Rails" width="60" height="60"
+  ><img src="./imgs/icons/lang-postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="60" height="60"
+  ><img src="./imgs/icons/lang-nextjs.svg" alt="Next.js" title="Next.js" width="60" height="60"
+  ><img src="./imgs/icons/lang-react.svg" alt="React" title="React" width="60" height="60">
+</p>
 
-## 🛠 Tecnologias e Ferramentas
+<p><img src="./imgs/headings/social.svg" alt="02 Social media" width="273" height="51"></p>
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <a href="https://github.com/athyrsonlopes"><img src="./imgs/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60"></a
+  ><a href="https://x.com/athydev"><img src="./imgs/icons/x.svg" alt="X" title="X" width="60" height="60"></a>
+</p>
 
----
+```text
+ athyrsonlopes@github ~ % exit
+ logout
+ Saving session...completed.
 
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athyrson-lopes-bb42101bb/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/athydev)
-
----
-
-
-✨ *Em constante evolução*
+ [Process completed]▌
+```
